@@ -1,0 +1,16 @@
+{
+  "name": "alice-testing-example",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "mocha test.js"
+  },
+  "dependencies": {
+    "micro": "^9.3.3",
+    "node-fetch": "^2.3.0"
+  },
+  "devDependencies": {
+    "mocha": "^6.0.2"
+  },
+  "license": "ISC"
+}
